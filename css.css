@@ -1,0 +1,25 @@
+
+body{
+ background: url("wodden-graffiti-800x480-wallpaper.jpg");
+ background-size: 100%;
+}
+#one {
+color: blue;
+}
+#two{
+color:green;
+}
+h1 {
+ background-color:Gold;
+}
+li{
+color:white;
+}
+
+
+h1 {
+	font-family: "Snap ITC";
+	font-size: 30pt;
+	color: blue;
+	text-align: center;
+}
